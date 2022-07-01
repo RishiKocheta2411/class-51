@@ -1,0 +1,36 @@
+h1{
+    color: blue;
+}
+
+.header{
+  background-color: blueviolet;
+  display: flex;
+  justify-content:space-between;
+  
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.item1{
+    background-color: rgb(229, 165, 178);
+    color:red
+}
+
+p,h2{
+    text-align: center;
+}
+
+.color{
+    display: flex;
+    flex-wrap: wrap;
+    color:#692607;
+    justify-content: center;
+    background-color:#00ffff;
+}
+
+
